@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "exec": "node ./packages/calculation-module/index.js"
+  },
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}
