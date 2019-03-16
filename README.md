@@ -8,8 +8,8 @@ in root, npm run exec
 
 ----------------------------------------
 
-// How to setup a simple monorepo project
-// create a new folder
+How to setup a simple monorepo project
+create a new folder
 
 mkdir monorepo
 cd monorepo
